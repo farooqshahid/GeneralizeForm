@@ -18,3 +18,6 @@ D:\Others\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFor
 D:\Others\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
 D:\Others\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
 D:\Others\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.licenses
+C:\Users\0469\Desktop\Git\GeneralizeForm\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\0469\Desktop\Git\GeneralizeForm\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\0469\Desktop\Git\GeneralizeForm\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
