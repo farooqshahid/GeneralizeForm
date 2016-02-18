@@ -27,6 +27,7 @@ namespace WindowsFormsApplication4
         }
         private void AddFormSettings()
         {
+            //Changes
             foreach (var item in this.Controls)
             {
                 if (item is GroupControl)
